@@ -1,0 +1,8 @@
+[user]
+	name = xxx
+	email = xxx
+	signingKey = xxx
+[tag]
+	gpgSign = true
+[init]
+	defaultBranch = main

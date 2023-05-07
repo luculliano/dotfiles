@@ -1,0 +1,10 @@
+Host wars
+  # HostName example.com
+  HostName xx.xxx.xx.xx
+  User xyz
+  Port 2222
+
+Host local
+  HostName 192.168.0.102
+  User xyz
+  Port 22
